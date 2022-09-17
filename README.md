@@ -6,6 +6,7 @@
 Python,IBM Cloud,Node- RED,IBM IoT Platform,MIT App Inventor,IBM Cloudant DB
 
 ### Project Description:
+Smart Solutions for railways is designed to reduced the work load of the user and also the use of paper. Here in this project we have all the features shown below.
 
 #### Features:
 
